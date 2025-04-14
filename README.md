@@ -8,13 +8,13 @@ all downloads are from the 'myrient.erista.me' website but has no association wi
 ---
 
 ## Choose a console
-![](https://github.com/AntHJ/Rom-Downloader/blob/main/RomDL-01.png)
-
 After selecting a chosen system the app will grab from the site the current listings for that console
+
+![](https://github.com/AntHJ/Rom-Downloader/blob/main/RomDL-01.png)
 
 ---
 
 ## Choose a rom
-![](https://github.com/AntHJ/Rom-Downloader/blob/main/RomDL-03.png)
+Search the list by pressing 'select' or browse manually and download your chosen rom
 
-Search the list by pressing 'select' or browse manually then download your chosen rom
+![](https://github.com/AntHJ/Rom-Downloader/blob/main/RomDL-03.png)
