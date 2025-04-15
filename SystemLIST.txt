@@ -1,6 +1,0 @@
-<tr><td class="link"><a href="Atari%20-%202600/" title="Atari - 2600">Atari - 2600/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
-<tr><td class="link"><a href="Atari%20-%205200/" title="Atari - 5200">Atari - 5200/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
-<tr><td class="link"><a href="Atari%20-%207800/" title="Atari - 7800">Atari - 7800/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
-<tr><td class="link"><a href="Atari%20-%20Jaguar%20%28ROM%29/" title="Atari - Jaguar (ROM)">Atari - Jaguar (ROM)/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
-<tr><td class="link"><a href="Atari%20-%20Lynx%20%28LNX%29/" title="Atari - Lynx (LNX)">Atari - Lynx (LNX)/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
-<tr><td class="link"><a href="Atari%20-%20ST/" title="Atari - ST">Atari - ST/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
