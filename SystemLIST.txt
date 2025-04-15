@@ -1,0 +1,32 @@
+<tr><td class="link"><a href="Atari%20-%202600/" title="Atari - 2600">Atari - 2600/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Atari%20-%205200/" title="Atari - 5200">Atari - 5200/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Atari%20-%207800/" title="Atari - 7800">Atari - 7800/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Atari%20-%20Jaguar%20%28ROM%29/" title="Atari - Jaguar (ROM)">Atari - Jaguar (ROM)/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Atari%20-%20Lynx%20%28LNX%29/" title="Atari - Lynx (LNX)">Atari - Lynx (LNX)/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Atari%20-%20ST/" title="Atari - ST">Atari - ST/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Bandai%20-%20WonderSwan/" title="Bandai - WonderSwan">Bandai - WonderSwan/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Bandai%20-%20WonderSwan%20Color/" title="Bandai - WonderSwan Color">Bandai - WonderSwan Color/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Coleco%20-%20ColecoVision/" title="Coleco - ColecoVision">Coleco - ColecoVision/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Commodore%20-%20Amiga/" title="Commodore - Amiga">Commodore - Amiga/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Commodore%20-%20Commodore%2064%20%28Tapes%29/" title="Commodore - Commodore 64 (Tapes)">Commodore - Commodore 64 (Tapes)/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="GCE%20-%20Vectrex/" title="GCE - Vectrex">GCE - Vectrex/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Magnavox%20-%20Odyssey%202/" title="Magnavox - Odyssey 2">Magnavox - Odyssey 2/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Mattel%20-%20Intellivision/" title="Mattel - Intellivision">Mattel - Intellivision/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Microsoft%20-%20MSX/" title="Microsoft - MSX">Microsoft - MSX/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Microsoft%20-%20MSX2/" title="Microsoft - MSX2">Microsoft - MSX2/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="NEC%20-%20PC%20Engine%20-%20TurboGrafx-16/" title="NEC - PC Engine - TurboGrafx-16">NEC - PC Engine - TurboGrafx-16/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="NEC%20-%20PC%20Engine%20SuperGrafx/" title="NEC - PC Engine SuperGrafx">NEC - PC Engine SuperGrafx/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Nintendo%20-%20Game%20Boy/" title="Nintendo - Game Boy">Nintendo - Game Boy/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Nintendo%20-%20Game%20Boy%20Advance/" title="Nintendo - Game Boy Advance">Nintendo - Game Boy Advance/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Nintendo%20-%20Game%20Boy%20Color/" title="Nintendo - Game Boy Color">Nintendo - Game Boy Color/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Nintendo%20-%20Nintendo%20Entertainment%20System%20%28Headered%29/" title="Nintendo - Nintendo Entertainment System (Headered)">Nintendo - Nintendo Entertainment System (Headered)/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/" title="Nintendo - Super Nintendo Entertainment System">Nintendo - Super Nintendo Entertainment System/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/" title="Nintendo - Nintendo DS (Decrypted)">Nintendo - Nintendo DS (Decrypted)/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="SNK%20-%20NeoGeo%20Pocket/" title="SNK - NeoGeo Pocket">SNK - NeoGeo Pocket/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="SNK%20-%20NeoGeo%20Pocket%20Color/" title="SNK - NeoGeo Pocket Color">SNK - NeoGeo Pocket Color/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Sega%20-%2032X/" title="Sega - 32X">Sega - 32X/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Sega%20-%20Game%20Gear/" title="Sega - Game Gear">Sega - Game Gear/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Sega%20-%20Master%20System%20-%20Mark%20III/" title="Sega - Master System - Mark III">Sega - Master System - Mark III/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Sega%20-%20Mega%20Drive%20-%20Genesis/" title="Sega - Mega Drive - Genesis">Sega - Mega Drive - Genesis/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Sega%20-%20SG-1000/" title="Sega - SG-1000">Sega - SG-1000/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Sinclair%20-%20ZX%20Spectrum%20%2B3/" title="Sinclair - ZX Spectrum +3">Sinclair - ZX Spectrum +3/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
