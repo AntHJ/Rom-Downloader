@@ -30,3 +30,5 @@
 <tr><td class="link"><a href="Sega%20-%20Mega%20Drive%20-%20Genesis/" title="Sega - Mega Drive - Genesis">Sega - Mega Drive - Genesis/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
 <tr><td class="link"><a href="Sega%20-%20SG-1000/" title="Sega - SG-1000">Sega - SG-1000/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
 <tr><td class="link"><a href="Sinclair%20-%20ZX%20Spectrum%20%2B3/" title="Sinclair - ZX Spectrum +3">Sinclair - ZX Spectrum +3/</a></td><td class="size">-</td><td class="date">14-Oct-2022 20:21</td></tr>
+<tr><td class="link"><a href="Non-Redump%20-%20Sony%20-%20PlayStation/" title="Sony - PlayStation">Non-Redump - Sony - PlayStation/</a></td><td class="size">-</td><td class="date">26-Jul-2025 17:17</td></tr>
+<tr><td class="link"><a href="Non-Redump%20-%20Sony%20-%20PlayStation%20Portable/" title="Sony - PlayStation Portable">Non-Redump - Sony - PlayStation Portable/</a></td><td class="size">-</td><td class="date">24-Aug-2025 11:12</td></tr>
